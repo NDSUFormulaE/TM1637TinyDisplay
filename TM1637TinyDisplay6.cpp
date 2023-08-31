@@ -26,7 +26,7 @@ extern "C" {
   #include <inttypes.h>
 }
 
-#include <TM1637TinyDisplay6.h>
+#include "TM1637TinyDisplay6.h"
 #include <Arduino.h>
 
 // Digit sequence map for 6 digit displays
